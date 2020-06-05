@@ -17,7 +17,7 @@ cssselect==1.0.3
 cycler==0.10.0
 decorator==4.4.0
 defusedxml==0.6.0
-Django==2.2.3
+Django==2.2.13
 entrypoints==0.3
 Flask==1.0.3
 Flask-Babel==0.12.2
